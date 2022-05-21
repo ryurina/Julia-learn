@@ -27,7 +27,7 @@ Lost: 334
 ```
 
 Explanation:
-We've simulate 1000 games, and as we can see the probability of winning the changing door strategy is 2/3
+We've simulate 1000 games, and as we can see the probability of winning with "the changing door strategy" is 2/3
 
 ----
 IG: @ryurina23
